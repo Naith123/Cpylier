@@ -38,7 +38,7 @@ Cpylier is a C Compiler written in Python.
 5. A- head of Time Compilation
 	- Custom Object File Generator
 	- Customer Linker
-6. M- ulti-File Compilation
+6. Multi-File Compilation
 	- Multiple files
 	- Support include statements
 	
