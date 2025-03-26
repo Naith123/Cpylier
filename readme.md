@@ -31,11 +31,11 @@ Cpylier is a C Compiler written in Python.
 	- Loop Unrolling
 	- Function Inlining
 	- LLVM Optimsation Passes
-4. D- ebugging/Error Handling
+4. Debugging/Error Handling
 	- Syntax Error reporting
 	- Semantic Error detection
 	- AST Pretty-Printing
-5. A- head of Time Compilation
+5. Ahead of Time Compilation
 	- Custom Object File Generator
 	- Customer Linker
 6. Multi-File Compilation
